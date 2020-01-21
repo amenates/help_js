@@ -107,8 +107,6 @@
 //     console.log(user10[key10]); // John, 30, true
 // }
 
-
-
 let user = {
     name: 'john',
     surname: 'Smith',
@@ -119,25 +117,6 @@ console.log(user.name);
 
 delete user.name;
 console.log('name' in user);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 // // Функция - консруктор
 //
